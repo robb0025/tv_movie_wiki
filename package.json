@@ -1,0 +1,21 @@
+{
+      "name": "node-TV/MOVIE-WIKI-webserver",
+        "version": "1.0.0",
+        "description": "Wiki Web Server using Node JS",
+        "author": {
+        "name": "Alex Robb",
+        "email": "robb@stthomas.edu"
+        "name2": "Omar Omar"
+        "email2": "Omarxxx@stthomas.edu"
+    },
+        "main": "server.js",
+        "repository": {
+        "type": "git",
+        "url": "https://github.com/tmarrinan/node-webserver.git"
+    },
+       "dependencies": {
+            "multiparty": "latest"
+            "express": "4.16.3"
+            "sqlite3": "3.1.13"
+     }
+}
