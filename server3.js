@@ -606,7 +606,7 @@ function GetTitleOrNamePage(req, res) {
                             htmlstring = htmlstring + "<input type=\"checkbox\" name=\"genre\" value=\"Crime\" onclick=\"chkcontrol(6)\">Crime<br>";
                             htmlstring = htmlstring + "<input type=\"checkbox\" name=\"genre\" value=\"Romance\" onclick=\"chkcontrol(7)\" >romance<br>";
                             htmlstring = htmlstring + "<input type=\"checkbox\" name=\"genre\" value=\"Animation\" onclick=\"chkcontrol(8)\">Animation<br>";
-                            htmlstring = htmlstring + "<input type=\"checkbox\" name=\"genre\" value=\"Sci-Fi\" onclick=\"chkcontrol(8)\">Sci-Fi<br>";
+                            htmlstring = htmlstring + "<input type=\"checkbox\" name=\"genre\" value=\"Sci-Fi\" onclick=\"chkcontrol(9)\">Sci-Fi<br>";
                             htmlstring = htmlstring + "<input onclick=\"showHideLoad()\" type=\"submit\" value=\"Save Genre\"></form></div>";
                             
                             htmlstring = htmlstring + "<div id=\"myType\" style=\"display: none;\">";
